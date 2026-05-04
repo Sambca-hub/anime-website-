@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    color: azure;
+}
+.a{
+    background-color: black;
+    padding:30px;
+}
+nav{
+color:azure;
+}
+ul{
+    margin-left: 60%;
+}
+li:hover{
+    cursor: pointer;
+}
+.c{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.b{
+    border:2px solid black;
+    text-align: center;
+    width: 350px;
+    border-radius: 10%;
+}
+.b p:hover{
+    background-color: black;
+    color: azure;
+}
+h2{
+    text-align: center;
+}
+input{
+    margin-left: 40%;
+    border:2px solid black;
+    margin-bottom: 20px;
+    width:300px;
+}
+.d{
+    background-color: black;
+    color:azure;
+}
+.b img:hover{
+    transform: rotate(360deg);
+    transition-duration: 8s;
+}
+h2{
+    font-size: large;
+}
+h3{
+    font-size:medium;
+    text-align: center;
+}
